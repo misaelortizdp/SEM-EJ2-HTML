@@ -3,9 +3,7 @@ const memoryLeft = document.getElementById('memory-left');
 const messageM = document.getElementById('message-memory');
 
 
-
-
-let num=0;
+let num=0;// this is a comment
 let num2=0;
 
 let time= setInterval(()=>{ 

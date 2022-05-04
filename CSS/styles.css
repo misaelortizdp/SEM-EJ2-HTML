@@ -192,7 +192,7 @@ div span{
 }
 
 
-@media  screen and (max-width: 375px){
+@media  screen and (max-width: 420px){
 
 	body{
 		height: 66.7rem;
