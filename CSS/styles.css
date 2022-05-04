@@ -17,7 +17,7 @@ body{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background-image: url("../img/bg-desktop.png");
+	background-image: url("../IMG/bg-desktop.png");
 	background-repeat: no-repeat;
 	background-position: bottom;
 	background-size: inherit;
@@ -116,7 +116,7 @@ div span{
 	height: 9.45rem;
 	right:30px;
 	top:-50px;
-	background-image: url("../img/bubble.svg");
+	background-image: url("../IMG/bubble.svg");
 }
 
 
