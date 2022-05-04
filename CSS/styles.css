@@ -198,7 +198,7 @@ div span{
 		height: 66.7rem;
 		flex-direction: column;
 		justify-content: center;
-		background-image: url("../img/bg-mobile.png");
+		background-image: url("../IMG/bg-mobile.png");
 	}
 
 	#block-1{
@@ -228,7 +228,7 @@ div span{
 		height: 6rem;
 		right:7rem;
 		top:12rem;
-		background-image: url("../img/balloon-text.svg");
+		background-image: url("../IMG/balloon-text.svg");
 	}
 	
 		
