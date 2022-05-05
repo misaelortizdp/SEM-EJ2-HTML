@@ -48,8 +48,8 @@ section{
 	height: 19.1rem;
 	background-color: hsl(228, 56%, 26%);
     position: relative;
-    bottom: 80px;
-    left: 140px;
+    bottom: 8rem;
+    left: 14rem;
     border-top-right-radius: 80px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -88,8 +88,8 @@ section{
 	justify-content: space-around;
 	align-items: center;
 	position: relative;
-    bottom: 60px;
-    right: 85px;
+    bottom: 6rem;
+    right: 8.5rem;
 	width: 52.3rem;
 	height: 15rem;
 	background-color: hsl(228, 56%, 26%);
@@ -132,10 +132,10 @@ div span{
 	position: relative;
 	top:3rem;
 	left: 0.5rem;
-
-	 color: hsl(229, 7%, 55%);
-     z-index: 1;
-}
+	
+	color: hsl(229, 7%, 55%);
+	z-index: 1;
+	}
 
 #bar-bg{
 	display: flex;
@@ -192,7 +192,7 @@ div span{
 }
 
 
-@media  screen and (max-width: 420px){
+@media  screen and (max-width: 440px){
 
 	body{
 		height: 66.7rem;
