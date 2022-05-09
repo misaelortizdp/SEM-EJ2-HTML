@@ -194,11 +194,11 @@ div span{
 @media  screen and (max-width: 420px){
 
 	body{
-		height: 66.7rem;
+		height: 68rem;
 		flex-direction: column;
 		justify-content: center;
 		background-image: url("../IMG/bg-mobile.png");
-		background-size: contain;
+		background-size: cover;
 	}
 
 	#block-1{
