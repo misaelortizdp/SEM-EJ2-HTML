@@ -198,8 +198,8 @@ div span{
 		width: 37.5rem;
 		flex-direction: column;
 		justify-content: center;
-		background-image: url("../IMG/bg-mobile.png");
-		
+		content: url("../IMG/bg-mobile.png");
+	    
 	}
 
 	#block-1{
