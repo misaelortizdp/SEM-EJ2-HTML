@@ -199,6 +199,7 @@ div span{
 		flex-direction: column;
 		justify-content: center;
 		background-image: url("../IMG/bg-mobile.png");
+		background-size: auto;
 	}
 
 	#block-1{
