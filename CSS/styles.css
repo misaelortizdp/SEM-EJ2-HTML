@@ -195,6 +195,7 @@ div span{
 
 	body{
 		height: 66.7rem;
+		height: 100vh;
 		flex-direction: column;
 		justify-content: center;
 		background-image: url("../IMG/bg-mobile.png");
